@@ -1,0 +1,46 @@
+LIST OF PAPERS TO GET !
+
+Serreze, M., A. Barrett, J. Stroeve, D. Kindig, and M. Holland (2009), The
+emergence of surface-based Arctic amplification, Cryosphere, 3, 11–19.
+
+Deser, C., R. Tomas, M. Alexander, and D. Lawrence (2010), The seasonal
+atmospheric response to projected Arctic sea ice loss in the late twentyfirst
+century, J. Clim., 23, 333–351.
+
+Alexeev, V., P. Langen, and J. Bates (2005), Polar amplification of surface
+warming on an aquaplanet in ghost forcing experiments without sea ice
+feedbacks, Clim. Dyn., 24, 655–666.
+
+Alexeev, V., I. Esau, I. Polyakov, S. Byam, and S. Sorokina (2012), Vertical
+structure of recent Arctic warming from observed data and reanalysis
+products, Clim. Change, 111, 215–239.
+
+Graversen, R., T. Mauritsen, M. Tjernström, E. Källén, and G. Svensson
+(2008), Vertical structure of recent Arctic warming, Nature, 451, 53–56.
+
+Graversen, R., T. Mauritsen, S. Drijfhout, M. Tjernström, and S. Mårtensson
+(2011), Warm winds from the Pacific caused extensive Arctic sea-ice melt
+in summer 2007, Clim. Dyn., 36, 2103–2112.
+
+Screen, J. A., and I. Simmonds (2010b), Increasing fall-winter energy loss
+from the Arctic Ocean and its role in Arctic temperature amplification,
+Geophys. Res. Lett., 37, L16707, doi:10.1029/2010GL044136.
+
+Wang, J., A. van der Baaren and L.A. Mysak, 1995, A principal component analysis of gridded global sea-level pressure, surface air temperature and sea-ice concentration in the Arctic region, 1953-1993, C2GCR Report No. 95-4, McGill Univ., Montreal, 22 pp+figures+Fortran source programs.
+
+Wu, B., J. Wang, J.E. Walsh, 2006. Dipole anomaly in the winter Arctic atmosphere and its association with Arctic sea ice motion. J. Climate, 19(2), 210-225. DOI: 10.1175/JCLI3619.1
+
+Watanabe, E., J. Wang, T. Sumi, and H. Hasumi, 2006. Arctic Dipole and its contribution to sea ice exports in the last 20th century (submitted to Geophys. Res. Lett.) 
+
+Orsolini, Y., R. Senan, R. Benestad, and A. Melsom (2012), Autumn
+atmospheric response to the 2007 low Arctic sea ice extent in coupled
+ocean–atmosphere hindcasts, Clim. Dyn., doi:10.1007/s00382-011-1169-z,
+in press.
+
+Kumar, A., J. Perlwitz, J. Eischeid, X. Quan, T. Xu, T. Zhang, M. Hoerling,
+B. Jha, and W. Wang (2010), Contribution of sea ice loss to Arctic amplification,
+Geophys. Res. Lett., 37, L21701, doi:10.1029/2010GL045022
+
+Deser, C., R. Tomas, M. Alexander, and D. Lawrence (2010), The seasonal
+atmospheric response to projected Arctic sea ice loss in the late twentyfirst
+century, J. Clim., 23, 333–351.
